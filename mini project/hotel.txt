@@ -1,0 +1,14 @@
+Room No: 101
+Name: Atharva Vedante
+Address: KOlhapur
+Phone: 8668778977
+Days: 4
+Rent: 6000
+-------------------------------
+Room No: 102
+Name: Arya
+Address: kagal
+Phone: 8489878977
+Days: 7
+Rent: 10500
+-------------------------------
